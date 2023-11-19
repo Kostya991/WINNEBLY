@@ -1,2 +1,4 @@
 # WINNEBLY
-An Assembly without DefineBytes function, easy version by me
+Easy Assembly without working with bytes, memory and etc. by me
+
+Documentation read in WIKI
